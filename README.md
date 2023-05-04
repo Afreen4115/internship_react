@@ -1,6 +1,6 @@
 # internship_react
 
-
+Add node modules using command npm install
 Run command : npm start
 Server starts on port number 3000
 http://localhost:3000/
